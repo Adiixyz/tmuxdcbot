@@ -4,7 +4,7 @@ module.exports = {
   run(message, args, client) {
     let embed = {
       color: 0x53bc8c,
-      title: `Welcome in the help section`,
+      title: `JSTFREENETBOT DISCORD BOT`,
       fields: [
         {
           name: "👮‍♂️ Prefix",
